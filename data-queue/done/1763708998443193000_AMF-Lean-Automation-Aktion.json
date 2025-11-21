@@ -1,0 +1,12 @@
+{
+  "type": "document",
+  "content_type": "application/pdf",
+  "source": {
+    "type": "file",
+    "path": "/Users/benno/projects/ai/bassi/pgraph-tutorial/data-source/done/AMF-Lean-Automation-Aktion.pdf",
+    "hints": {}
+  },
+  "created_at": "2025-04-07T14:52:36+00:00",
+  "size_bytes": 651227,
+  "filename": "AMF-Lean-Automation-Aktion.pdf"
+}
